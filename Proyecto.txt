@@ -1,3 +1,8 @@
 Hola, Viva la Liga
+<<<<<<< HEAD
 Saprissa es una basura
 Saludos Ronny
+=======
+No, la liga es basura
+XD
+>>>>>>> 84870d2ffafbbbb320f3e3e4bed5a1f84d33a594
